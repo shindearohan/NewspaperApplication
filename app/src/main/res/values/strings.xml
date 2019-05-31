@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewspaperApplication</string>
+    <string name="appbar_scrolling_view_behavior">Appbar_Scrolling_View_Behavior</string>
+</resources>
